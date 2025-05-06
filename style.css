@@ -437,6 +437,7 @@ img{
         .certificate {
             width: 300px; 
             text-align: center;
+            margin-left: -50px;
             height:100vh;
         }
         
