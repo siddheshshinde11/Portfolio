@@ -565,4 +565,4 @@ img{
             object-fit: cover; /* Ensures the image fills the circle without distortion */
             border: 3px solid #FF6700; /* Optional: Adds a border */
             transition: transform 0.5s ease-in-out, box-shadow 0.5s ease-in-out; /* Smooth animation */
-}
+        }
